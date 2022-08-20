@@ -15,5 +15,4 @@
 
 ### В проекте используются api и сторонние библиотеки.
 ## Бот в telegram - @StavTravel_bot
-
 ![](preview/Screenshot_1.jpg)
